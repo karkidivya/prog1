@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(142, 196, 178) ;
+}
+.top1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+.top2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.image1{
+        margin-top: 5rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200;
+        height:200;
+     }
+hr{
+        margin-top: 5rem;
+        border:none;
+        border-top:10px dotted rgb(177, 145, 145); 
+       
+        
+        height:0px;
+        width:5%;
+}
+.image2{
+    margin-top: 5rem;
+    display: block;
+    width: 10rem;
+    height:10rem; 
+    position:absolute;
+    left:15rem;
+}
+.skills{
+    text-align: center;
+}
